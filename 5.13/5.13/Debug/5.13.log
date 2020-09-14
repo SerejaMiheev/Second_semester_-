@@ -1,0 +1,39 @@
+﻿Построение начато 06.05.2019 15:25:40.
+     1>Проект "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\5.13\5.13\5.13.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\5.13.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\5.13.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt 5.13.cpp /clr:nostdlib 
+         5.13.cpp
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(96): error C2872: IServiceProvider: неоднозначный символ
+                 может быть "c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(53) : System::IServiceProvider IServiceProvider"
+                 или       "c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : System::IServiceProvider"
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(96): error C3699: *: это косвенное обращение невозможно использовать для типа "IServiceProvider"
+                 для продолжения работы компилятор заменил "*" на "^"
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(103): error C2371: IServiceProvider: переопределение; различные базовые типы
+                 c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(53): см. объявление "IServiceProvider"
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(120): error C2872: IServiceProvider: неоднозначный символ
+                 может быть "c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(103) : IServiceProvider"
+                 или       "c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : System::IServiceProvider"
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(241): error C2872: IServiceProvider: неоднозначный символ
+                 может быть "c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(103) : IServiceProvider"
+                 или       "c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : System::IServiceProvider"
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(251): error C2872: IServiceProvider: неоднозначный символ
+                 может быть "c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(103) : IServiceProvider"
+                 или       "c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : System::IServiceProvider"
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\urlmon.h(6459): error C2872: IServiceProvider: неоднозначный символ
+                 может быть "c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(103) : IServiceProvider"
+                 или       "c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : System::IServiceProvider"
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\urlmon.h(6461): error C2872: IServiceProvider: неоднозначный символ
+                 может быть "c:\program files\microsoft sdks\windows\v7.0a\include\servprov.h(103) : IServiceProvider"
+                 или       "c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll : System::IServiceProvider"
+     1>c:\users\программирование\documents\visual studio 2010\projects\5.13\5.13\Form1.h(415): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\программирование\documents\visual studio 2010\projects\5.13\5.13\Form1.h(442): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Построение проекта "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\5.13\5.13\5.13.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:02.33

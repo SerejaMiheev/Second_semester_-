@@ -1,0 +1,33 @@
+﻿Построение начато 22.04.2019 13:23:54.
+     1>Проект "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\3.11\3.11\3.11.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Release\3.11.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\3.11.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt 3.11.cpp /clr:nostdlib 
+         3.11.cpp
+     1>c:\users\программирование\documents\visual studio 2010\projects\3.11\3.11\Form1.h(137): warning C4101: na: неиспользованная локальная переменная
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Программирование\Documents\Visual Studio 2010\Projects\3.11\Release\3.11.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\My311.Form1.resources /MANIFEST /ManifestFile:"Release\3.11.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Программирование\Documents\Visual Studio 2010\Projects\3.11\Release\3.11.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\3.11.obj
+         Release\AssemblyInfo.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         3.11.vcxproj -> C:\Users\Программирование\Documents\Visual Studio 2010\Projects\3.11\Release\3.11.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Программирование\Documents\Visual Studio 2010\Projects\3.11\Release\3.11.exe;#1" /manifest Release\3.11.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\3.11.unsuccessfulbuild" удаляется.
+         Обращение к "Release\3.11.lastbuildstate".
+     1>Построение проекта "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\3.11\3.11\3.11.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:13.02

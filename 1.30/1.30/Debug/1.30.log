@@ -1,0 +1,19 @@
+﻿Построение начато 18.02.2019 21:07:09.
+     1>Проект "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\1.30\1.30\1.30.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\1.30.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\\" /AIC:\Windows\Microsoft.NET\Framework\v3.5\ /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\\" /AIC:\Windows\Microsoft.NET\Framework\v3.0\ /AIC:\Windows\Microsoft.NET\Framework\v2.0.50727\ /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /analyze- /errorReport:prompt 1.30.cpp /d1clr:nostdlib 
+         1.30.cpp
+     1>1.30.cpp(9): error C2065: cout: необъявленный идентификатор
+     1>1.30.cpp(9): error C2065: endl: необъявленный идентификатор
+     1>1.30.cpp(11): error C2065: cout: необъявленный идентификатор
+     1>1.30.cpp(11): error C2065: endl: необъявленный идентификатор
+     1>1.30.cpp(15): error C2065: cout: необъявленный идентификатор
+     1>1.30.cpp(16): error C3861: system: идентификатор не найден
+     1>Построение проекта "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\1.30\1.30\1.30.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:01.02

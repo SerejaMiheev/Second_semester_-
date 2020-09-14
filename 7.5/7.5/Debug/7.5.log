@@ -1,0 +1,21 @@
+﻿Построение начато 30.04.2019 12:38:56.
+     1>Проект "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\7.5\7.5\7.5.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\7.5.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\7.5.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\7.5.lastbuildstate".
+     1>Построение проекта "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\7.5\7.5\7.5.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.22

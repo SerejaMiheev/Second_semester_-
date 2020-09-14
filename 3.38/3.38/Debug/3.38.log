@@ -1,0 +1,29 @@
+﻿Построение начато 08.04.2019 13:37:48.
+     1>Проект "C:\Users\Программирование\documents\visual studio 2010\Projects\3.38\3.38\3.38.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\3.38.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 3.38.cpp
+         3.38.cpp
+     1>c:\users\программирование\documents\visual studio 2010\projects\3.38\3.38\3.38.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Программирование\documents\visual studio 2010\Projects\3.38\Debug\3.38.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\3.38.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Программирование\documents\visual studio 2010\Projects\3.38\Debug\3.38.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Программирование\documents\visual studio 2010\Projects\3.38\Debug\3.38.lib" /MACHINE:X86 Debug\3.38.exe.embed.manifest.res
+         Debug\3.38.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\3.38.exe.embed.manifest" /manifest Debug\3.38.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         3.38.vcxproj -> C:\Users\Программирование\documents\visual studio 2010\Projects\3.38\Debug\3.38.exe
+       FinalizeBuildStatus:
+         Файл "Debug\3.38.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\3.38.lastbuildstate".
+     1>Построение проекта "C:\Users\Программирование\documents\visual studio 2010\Projects\3.38\3.38\3.38.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.11

@@ -1,0 +1,46 @@
+﻿Построение начато 29.04.2019 19:07:51.
+     1>Проект "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\4.10\4.10\4.10.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\4.10.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ManagedIncrementalBuildPostProcessDependencyGraph:
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 10.0\VC\BIN\1049\CLUI.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\FRAMEWORK\.NETFRAMEWORK\V4.0\MSCORLIB.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\FRAMEWORK\.NETFRAMEWORK\V4.0\SYSTEM.CORE.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\FRAMEWORK\.NETFRAMEWORK\V4.0\SYSTEM.DATA.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\FRAMEWORK\.NETFRAMEWORK\V4.0\SYSTEM.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\FRAMEWORK\.NETFRAMEWORK\V4.0\SYSTEM.DRAWING.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\FRAMEWORK\.NETFRAMEWORK\V4.0\SYSTEM.WINDOWS.FORMS.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\FRAMEWORK\.NETFRAMEWORK\V4.0\SYSTEM.XML.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Не удалось загрузить файл или сборку "file:///C:\PROGRAM FILES (X86)\REFERENCE ASSEMBLIES\MICROSOFT\FRAMEWORK\.NETFRAMEWORK\V4.0\MICROSOFT.VISUALC.DLL" либо одну из их зависимостей. Не удается найти указанный файл.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         4.10.vcxproj -> C:\Users\Программирование\Documents\Visual Studio 2010\Projects\4.10\Release\4.10.exe
+       MetaGen:
+       Целевой объект "MetaGen" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       FinalizeBuildStatus:
+         Файл "Release\4.10.unsuccessfulbuild" удаляется.
+         Обращение к "Release\4.10.lastbuildstate".
+     1>Построение проекта "C:\Users\Программирование\Documents\Visual Studio 2010\Projects\4.10\4.10\4.10.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.82

@@ -1,0 +1,21 @@
+﻿Построение начато 26.03.2019 11:55:34.
+     1>Проект "C:\Users\Программирование\documents\visual studio 2010\Projects\2.6\2.6\2.6.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\2.6.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\2.6.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\2.6.lastbuildstate".
+     1>Построение проекта "C:\Users\Программирование\documents\visual studio 2010\Projects\2.6\2.6\2.6.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.22
